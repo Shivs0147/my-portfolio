@@ -17,7 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 <<<<<<< HEAD
 =======
 # my-portfolio
-[my-portfolio](http://Shivs0147.github.io/my-portfolio)
+[my-portfolio](https://shivs0147.github.io/my-portfolio/)
 
 > 🔗 Right click and choose “Open link in new tab” OR press Ctrl+Click (Cmd+Click on Mac)
 
