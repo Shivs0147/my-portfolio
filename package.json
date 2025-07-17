@@ -1,6 +1,10 @@
 {
   "name": "myportfolio",
+<<<<<<< HEAD
   "homepage": "http://Shivs0147.github.io/my-portfolio",
+=======
+  "homepage": "https://shivs0147.github.io/",
+>>>>>>> baa051b (Updated resume link/content in Home.jsx)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,7 +22,11 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
+<<<<<<< HEAD
     "sweetalert2": "^11.6.13",
+=======
+    "sweetalert2": "^11.22.1",
+>>>>>>> baa051b (Updated resume link/content in Home.jsx)
     "tailwindcss": "^4.1.10"
   },
   "devDependencies": {
