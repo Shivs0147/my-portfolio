@@ -1,6 +1,6 @@
 import profileImg from "../assets/profile.jpg"; // Adjust the path as necessary
 import { MdOutlineFileDownload } from "react-icons/md";
-import resuMe from "../assets/resume.pdf"; // Adjust the path as necessary
+import resuMe from "../assets/Shivam_Gabani_Data_Analytics.pdf"; // Adjust the path as necessary
 
 function Home() {
     return (
